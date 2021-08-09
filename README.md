@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @Iryna-Slynko
 - 👀 I’m interested in Python, Java, JS, Computer Vision, Data Analysis
 - 🌱 I’m currently learning Full Stack Development. I study Computing with IT Management in TU Dublin and Software Development at NCI.
-- 💞️ I love coding, challenges, collaboration, elevating others, fitness, outdoors and good food.
+- 💞️ I love coding, challenges, collaboration, elevating others. My other likes include fitness, outdoors, sea, cats and tasty food.
 - 📫 You have an offer for collaboration or want to network? Then reach me hello@iryna-slynko.com
 
 <!---
